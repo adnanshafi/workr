@@ -1,0 +1,6 @@
+[submodule "packages/auth_repo"]
+	path = packages/auth_repo
+	url = https://github.com/adnanshafi/auth_repo.git
+[submodule "packages/mem_cache"]
+	path = packages/mem_cache
+	url = https://github.com/adnanshafi/mem_cache.git
